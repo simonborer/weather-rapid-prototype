@@ -1,6 +1,6 @@
 # Geolocation Weather Prototype
 
-This is a rapid prototype of a geolocation-based weather service application for evaluation purposes. It is built to externally supplied specifications and requirements. See `requirements.md` for details. 
+This is a rapid prototype of a geolocation-based weather service application for evaluation purposes. It is built to externally supplied specifications and requirements. Not all requirements have been met, including consuming XML and converting to JSON, and robust error handling. Other best practices, including full test coverage, browser compatability and accessibility auditing, should also be implemented as pre-release steps. See `requirements.md` for details. 
 
 ## Available Scripts
 
