@@ -1,0 +1,17 @@
+body {
+	font-family: 'Roboto', sans-serif;
+}
+.main {
+  margin: 0 auto;
+  max-width: 60rem;
+  padding: 2rem 0;
+}
+
+.info-table {
+	max-width: 19rem;
+	margin: 0 0 4rem;
+}
+
+.btn-refresh {
+	margin-top: 2rem;
+}
